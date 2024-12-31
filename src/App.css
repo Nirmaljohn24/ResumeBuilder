@@ -1,0 +1,13 @@
+.progressbar{
+  width: 600px;
+  height: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+  margin-left: 23%;
+}
+
+.progressbar div{
+  width: 20%;
+  height: 100%;
+  background-color: rgba(13, 110, 253, 1);
+}
